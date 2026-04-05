@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.themulia.com	TRUE	/	FALSE	1999999999	_cfuvid	P5Tl84Eulusag2LYrbGzz_duDeUrZB_4GIfqyAHp4sU-1775419144.639391-1.0.1.1-XRs0fB3.xeNhC_3WTrKHtS9Ne1Gy.FsmswWGh7DtAtA
+.www.themulia.com	TRUE	/	FALSE	1999999999	_cfuvid	sQ2D52OpG8EMMwbPBkG2gCQUFlOKjwkGZGaVih40ksE-1775419404313-0.0.1.1-604800000
+.www.themulia.com	TRUE	/	FALSE	1999999999	_cfuvid	sbbE_nJwvzMOGHpEKdlHXLFr2YTv8nnTsN.LNWzg46w-1775419429955-0.0.1.1-604800000
+.www.themulia.com	TRUE	/	FALSE	1999999999	_cfuvid	xd2Ki07JMuD89hacLDLNqPzgJSek70lP7ntzXHGRZZU-1775420091785-0.0.1.1-604800000
+www.themulia.com	TRUE	/	FALSE	1999999999	SameSite	None
+
